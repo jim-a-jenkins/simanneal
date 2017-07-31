@@ -5,4 +5,4 @@ This project was for Introduction to Artificial Intelligence class in Fall 2016 
 
 The code is set up to use the provided "Large State" sample data which is a grid of fake households which are then fairly divided by the algorithm to create a balanced, competitive district layout. You may also enter sample data via the command line if you prefer. 
 
-
+If you have any questions, feel free to reach out to me at jimajenkins87@gmail.com
